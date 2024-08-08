@@ -1,0 +1,4 @@
+github.com/kljensen/snowball v0.9.0 h1:OpXkQBcic6vcPG+dChOGLIA/GNuVg47tbbIJ2s7Keas=
+github.com/kljensen/snowball v0.9.0/go.mod h1:OGo5gFWjaeXqCu4iIrMl5OYip9XUJHGOU5eSkPjVg2A=
+github.com/samber/mo v1.13.0 h1:LB1OwfJMju3a6FjghH+AIvzMG0ZPOzgTWj1qaHs1IQ4=
+github.com/samber/mo v1.13.0/go.mod h1:BfkrCPuYzVG3ZljnZB783WIJIGk1mcZr9c9CPf8tAxs=
